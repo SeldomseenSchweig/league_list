@@ -1,15 +1,17 @@
 +++++++++++++++++++++++++++++++++++++++++++++++
 + FACTION KEYWORD: Imperium - Adeptus Astartes - Space Wolves
-+ DETACHMENT: Gladius Task Force
-+ TOTAL ARMY POINTS: 750pts
++ DETACHMENT: Champions of Russ
++ TOTAL ARMY POINTS: 745pts
 +
 + WARLORD: Char2: Ragnar Blackmane
-+ ENHANCEMENT: 
-+ NUMBER OF UNITS: 7
-+ SECONDARY: - Bring It Down: 2x3 - Assassination: 2 Characters
++ ENHANCEMENT: Black Death (on Char1: Wolf Guard Battle Leader in Terminator Armour)
+& Black Death (on Char1: Wolf Guard Battle Leader in Terminator Armour)
++ NUMBER OF UNITS: 6
++ SECONDARY: - Bring It Down: 1x3 - Assassination: 2 Characters
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-Char1: 1x Iron Priest (60 pts): Helfrost pistol, Servo-arm, Tempest hammer
+Char1: 1x Wolf Guard Battle Leader in Terminator Armour (100 pts): Power weapon, Thunder hammer
+Enhancement: Black Death (+25 pts)
 Char2: 1x Ragnar Blackmane (90 pts): Warlord, Bolt Pistol, Frostfang
 
 10x Blood Claws (140 pts)
@@ -17,13 +19,12 @@ Char2: 1x Ragnar Blackmane (90 pts): Warlord, Bolt Pistol, Frostfang
 • 7x Blood Claw: 7 with Astartes chainsword, Bolt Pistol
 • 2x Blood claw: 2 with Bolt Pistol, Close combat weapon, Plasma gun
 
-5x Incursor Squad (80 pts)
-• 1x Incursor Sergeant: Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
-• 4x Incursors: 4 with Bolt Pistol, Occulus Bolt Carbine, Paired Combat Blades
 5x Sternguard Veteran Squad (90 pts)
 • 4x Sternguard Veteran
     3 with Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Bolt Rifle
     1 with Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Heavy Bolter
 • 1x Sternguard Veteran Sergeant: Close Combat Weapon, Sternguard Bolt Pistol, Power Fist, Sternguard Bolt Rifle
-1x Ballistus Dreadnought (140 pts): Armoured Feet, Ballistus Lascannon, Ballistus Missile Launcher, Twin Storm Bolter
+5x Terminator Squad (175 pts)
+• 1x Terminator Sergeant: Storm Bolter, Power Fist
+• 4x Terminator: 4 with Power Fist, Storm Bolter
 1x Gladiator Reaper (150 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, 2x Tempest Bolter, Twin Heavy Onslaught Gatling Cannon
