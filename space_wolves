@@ -1,30 +1,69 @@
 +++++++++++++++++++++++++++++++++++++++++++++++
 + FACTION KEYWORD: Imperium - Adeptus Astartes - Space Wolves
-+ DETACHMENT: Champions of Russ
-+ TOTAL ARMY POINTS: 745pts
++ DETACHMENT: Gladius Task Force
++ TOTAL ARMY POINTS: 750pts
 +
 + WARLORD: Char2: Ragnar Blackmane
-+ ENHANCEMENT: Black Death (on Char1: Wolf Guard Battle Leader in Terminator Armour)
-& Black Death (on Char1: Wolf Guard Battle Leader in Terminator Armour)
-+ NUMBER OF UNITS: 6
++ ENHANCEMENT: 
++ NUMBER OF UNITS: 7
 + SECONDARY: - Bring It Down: 1x3 - Assassination: 2 Characters
 +++++++++++++++++++++++++++++++++++++++++++++++
 
-Char1: 1x Wolf Guard Battle Leader in Terminator Armour (100 pts): Power weapon, Thunder hammer
-Enhancement: Black Death (+25 pts)
-Char2: 1x Ragnar Blackmane (90 pts): Warlord, Bolt Pistol, Frostfang
+CHARACTER
+
+1x Wolf Guard Battle Leader in Terminator Armour (75 pts)
+• 1x Thunder hammer
+• 1x Storm bolter
+
+1x Ragnar Blackmane (90 pts)
+• 1x Bolt Pistol
+• 1x Frostfang
+• Warlord
+
+BATTLELINE
 
 10x Blood Claws (140 pts)
-• 1x Blood Claw Pack Leader: Power Fist, Plasma Pistol
-• 7x Blood Claw: 7 with Astartes chainsword, Bolt Pistol
-• 2x Blood claw: 2 with Bolt Pistol, Close combat weapon, Plasma gun
+• 1x Blood Claw Pack Leader
+    • 1x Power Fist
+    • 1x Plasma Pistol
+• 7x Blood Claw
+    • 7x Astartes chainsword
+    • 7x Bolt Pistol
+• 2x Blood claw
+    • 2x Bolt Pistol
+    • 2x Close combat weapon
+    • 2x Plasma gun
+
+OTHER DATASHEETS
 
 5x Sternguard Veteran Squad (90 pts)
+• 1x Sternguard Veteran Sergeant
+    • 1x Close Combat Weapon
+    • 1x Sternguard Bolt Pistol
+    • 1x Power Fist
+    • 1x Sternguard Bolt Rifle
 • 4x Sternguard Veteran
-    3 with Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Bolt Rifle
-    1 with Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Heavy Bolter
-• 1x Sternguard Veteran Sergeant: Close Combat Weapon, Sternguard Bolt Pistol, Power Fist, Sternguard Bolt Rifle
+    • 6x Close Combat Weapon
+    • 6x Sternguard Bolt Pistol
+    • 3x Sternguard Bolt Rifle
+    • 1x Sternguard Heavy Bolter
+
 5x Terminator Squad (175 pts)
-• 1x Terminator Sergeant: Storm Bolter, Power Fist
-• 4x Terminator: 4 with Power Fist, Storm Bolter
-1x Gladiator Reaper (150 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, 2x Tempest Bolter, Twin Heavy Onslaught Gatling Cannon
+• 1x Terminator Sergeant
+    • 1x Storm Bolter
+    • 1x Power Fist
+• 4x Terminator
+    • 2x Power Fist
+    • 1x Assault Cannon
+    • 3x Storm Bolter
+
+5x Fenrisian Wolves (30 pts)
+• 5x Fenrisian Wolf
+    • 5x Teeth and claws
+
+1x Gladiator Reaper (150 pts)
+• 1x Armoured Hull
+• 1x Icarus Rocket Pod
+• 1x Ironhail Heavy Stubber
+• 2x Tempest Bolter
+• 1x Twin Heavy Onslaught Gatling Cannon
