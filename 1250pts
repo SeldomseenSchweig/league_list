@@ -1,7 +1,7 @@
 +++++++++++++++++++++++++++++++++++++++++++++++
 + FACTION KEYWORD: Imperium - Adeptus Astartes - Ultramarines
 + DETACHMENT: Gladius Task Force
-+ TOTAL ARMY POINTS: 1235pts
++ TOTAL ARMY POINTS: 1250pts
 +
 + WARLORD: Char3: Marneus Calgar
 + ENHANCEMENT: Fire Discipline (on Char1: Apothecary Biologis)
@@ -21,9 +21,6 @@ Char3: 3x Marneus Calgar (185 pts): Warlord
 5x Assault Intercessor Squad (75 pts)
 • 1x Assault Intercessor Sergeant: Plasma Pistol, Power Fist
 • 4x Assault Intercessors: 4 with Astartes Chainsword, Heavy Bolt Pistol
-5x Assault Intercessor Squad (75 pts)
-• 1x Assault Intercessor Sergeant: Plasma Pistol, Power Fist
-• 4x Assault Intercessors: 4 with Astartes Chainsword, Heavy Bolt Pistol
 
 6x Aggressor Squad (240 pts): Auto Boltstorm Gauntlets, Fragstorm Grenade Launcher
 • 1x Aggressor Sergeant: Twin Power Fist
@@ -34,5 +31,10 @@ Char3: 3x Marneus Calgar (185 pts): Warlord
 5x Infiltrator Squad (100 pts)
 • 4x Infiltrator: 4 with Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
 • 1x Infiltrator Sergeant: Bolt Pistol, Close Combat Weapon, Marksman Bolt Carbine
+5x Sternguard Veteran Squad (90 pts)
+• 4x Sternguard Veteran
+    3 with Close Combat Weapon, Sternguard Bolt Pistol, Sternguard Bolt Rifle
+    1 with Close Combat Weapon, Sternguard Bolt Pistol, Pyrecannon
+• 1x Sternguard Veteran Sergeant: Close Combat Weapon, Sternguard Bolt Pistol, Power Fist, Sternguard Bolt Rifle
 1x Ballistus Dreadnought (140 pts): Armoured Feet, Ballistus Lascannon, Ballistus Missile Launcher, Twin Storm Bolter
 1x Gladiator Reaper (160 pts): Armoured Hull, Icarus Rocket Pod, Ironhail Heavy Stubber, 2x Tempest Bolter, Twin Heavy Onslaught Gatling Cannon
